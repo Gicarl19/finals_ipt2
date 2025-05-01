@@ -9,8 +9,8 @@ body {
 
 #sidebar {
     width: 260px;
-    background-color: #003366;
-    color: white;
+    background-color: white;
+    color: black;
     min-height: 100vh;
     position: fixed;
     top: 0;
@@ -29,7 +29,7 @@ body {
 
 h1.sidebar {
     font-size: 25px;
-    color: white;
+    color: #012362;
     text-align: center;
     margin: 10px 0 20px;
     line-height: 1.4;
@@ -51,7 +51,7 @@ h1.sidebar {
     display: flex;
     align-items: center;
     padding: 12px 20px;
-    color: white;
+    color: #012362;
     text-decoration: none;
     transition: background 0.3s;
     background: none;
@@ -64,7 +64,7 @@ h1.sidebar {
 
 #sidebar a:hover,
 .dropdown-btn:hover {
-    background-color: #3c7ab8;
+    background-color: white;
 }
 
 #sidebar a.active,
@@ -79,7 +79,7 @@ h1.sidebar {
 
 .sub-menu {
     display: none;
-    background-color: #003366;
+    background-color: white;
     padding-left: 1rem;
 }
 

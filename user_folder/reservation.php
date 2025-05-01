@@ -64,7 +64,7 @@ $name = isset($_SESSION['name']) ? $_SESSION['name'] : '';
 
 </head>
 <body>
-    <nav id="sidebar">
+<nav id="sidebar">
     <ul>
     <img src="/images/cmulogo.png" alt="Logo" > <h1 class="sidebar">City Of Malabon University</h1>
     <li>
@@ -127,6 +127,7 @@ $name = isset($_SESSION['name']) ? $_SESSION['name'] : '';
         
     </ul>
 </nav>
+
 
 <div class="container">
         <h1>CBA ROOMS AVAILABLE</h1>

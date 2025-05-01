@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 * {
     margin: 0;
     padding: 0;
@@ -72,7 +72,7 @@ body {
 .form-container {
     border: 5px solid #14294e;
     width: 100%;
-    max-width: 450px;
+    max-width: 480px;
     padding: 2rem;
     border-radius: 2    pc;
     box-shadow: 0 5px 20px rgba(0, 0, 0, 0.05);
@@ -112,7 +112,7 @@ select {
 }
 
 .input-wrapper input {
-    width: 100%;
+    width: 90%;
     padding: 12px;
     padding-left: 40px;
     border: 1px solid #ddd;
@@ -231,7 +231,7 @@ button:hover {
     .form-container {
         padding: 1.5rem;
     }
-=======
+
 
 *{
     margin: 0;
@@ -316,5 +316,5 @@ p a:hover{
     color: #a42834;
     text-align: center;
     margin-bottom: 20px;
->>>>>>> b218cc57b39be7e5a5c323e07d87a6b98a21dfb0
+}
 }
